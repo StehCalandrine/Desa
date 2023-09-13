@@ -1,7 +1,7 @@
 # Desafios de lógica em python | DIO
 
 Desafio de exercício de lógica da DIO. 
-Todos os exemplos abaixo estão no arquivo Desafios de lógica em python.ipynb
+Todos os exemplos abaixo estão no arquivo DDesafios de lógica python v1.ipynb
 
 ## Tempo Estimado de Entrega
 Imagine que você está criando um aplicativo de entrega de comida e precisa informar ao usuário o tempo estimado de entrega de um restaurante. A mensagem deve conter o nome do restaurante e o tempo estimado de entrega em minutos.
